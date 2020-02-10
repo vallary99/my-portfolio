@@ -38,27 +38,29 @@
     padding-left: 25px;
 }
 
+h1{
+    font-size: xxx-large;
+    color: white;
+}
 
-img{
-    width:300px;
-    height: 300px;
 }
 .one{
-   float: left;
    background-color: rgb(245, 220, 222);
-   
+   margin-top: 200px;
    
 }
 
-h1{
+.one p{
     text-align: center;
-    color: blanchedalmond;
-    font-size: xxx-large;
-}
+    color: black;
+    font-size: x-large;
+    background-color: blanchedalmond;
+ }
 
 
 .two{
     box-sizing: border-box;
+    background-color: blanchedalmond;
 }
 
 p{
